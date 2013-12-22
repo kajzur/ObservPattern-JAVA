@@ -1,4 +1,4 @@
--ObservPattern-JAVA
+ObservPattern-JAVA
 ===================
 
 Observator Pattern in Java.
