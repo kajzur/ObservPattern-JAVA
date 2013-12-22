@@ -32,8 +32,6 @@ public class Kobieta implements Observable, Observator {
 		
 	}
 
-
-
 	@Override
 	public void notifyObservator() {
 		
